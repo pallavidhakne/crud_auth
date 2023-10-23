@@ -1,0 +1,23 @@
+{
+  "name": "dumy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallavidhakne/crud_auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pallavidhakne/crud_auth/issues"
+  },
+  "homepage": "https://github.com/pallavidhakne/crud_auth#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
